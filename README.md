@@ -4,15 +4,13 @@ Hello Everyone,
 
 # Objective:
 
-A deep dive into sales data, aimed at extracting valuable insights to enhance strategic decision-making. Using Power BI and Excel, I transformed raw data into useful insights analyzing trends,top selling products and revenue metrics etc.
+A deep dive into HR data, aimed at extracting valuable insights to enhance strategic decision-making. Using Power BI and Excel, I transformed raw data into useful insights which includes demographic insights, turnover analysis and employee wellness.
 
 # Tools Used :
 
-Microsoft Excel
+1. Microsoft Excel
 
-Power BI
-
-A demographic report summarizes employee statistics, including age groups, gender, distance from home and martial status, providing insights into workforce diversity and commuting pattern for informed decision-making
+2. Power BI
 
 # Tasks performed
 
