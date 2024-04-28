@@ -92,7 +92,7 @@ and at last Human Resources (5.06%).
 
 6. Average working hours is 11 hours and 17 minutes. 
 
-7. 65.82% ie. 156  people rarely have business travel. Out of these 156, 65.38% are male employees 
+7. 65.82% ie. 156  people rarely have business travel. Out of these 156, 65.38% are male employees.
 
-8. Average monthly income is 6.50K and Average Hourly Rate is 65.89# HR Data Analysis
+8. Average monthly income is 6.50K and Average Hourly Rate is $65.89 .
 
